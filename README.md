@@ -26,7 +26,23 @@
 
     .brew
 
-    .git
+    #.git : *workflow reminder* 
+    # local repo:
+    $ git pull
+    $ git branch
+    $ git checkout <feature-branch>
+    $ git commit -am "message"
+    $ git push 
+
+    # remote repo: 
+    open pull request
+    git merge pull request will merge the changes into master-branch
+
+    # local-repo
+    $ git checkout <master-branch>
+    $ git pull will synce the code base 
+
+
 
 
 
