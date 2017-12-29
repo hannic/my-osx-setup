@@ -1,0 +1,41 @@
+
+###############################################################################
+# Web server / Networking                                                     #
+###############################################################################
+
+# simple web server 
+$ python -m SimpleHTTPServer 8000
+$ uptime
+
+# lan ip address 
+$ ipconfig getifaddr en0
+# global ip address
+$ curl ipecho.net/plain; echo
+
+
+
+###############################################################################
+# Terminal                                                                #
+###############################################################################
+$ history
+$ say
+!! or sudo!!
+$ yes
+$ pbcopy
+ 
+ 
+# check file system
+$ sudo fs_usage
+$ ditto -V /old/work/ /new/work/
+
+
+# man shutdown 
+$ sudo shutdown -h now
+$ sudo shutdown -r now
+
+# waits 60 mins before starting the shutdown
+$ sudo shutdown -P +60
+
+# reboot after 60 mins 
+$ sudo shutdown -r +60
+
