@@ -5,13 +5,15 @@
 
 
 ### Table of contents
-- [dotfiles > /dotfiles](#dotfiles)
+- [dotfiles](#dotfiles)
+- [Package Manager - Homebrew](#homebrew)
+
 - [Shortcuts](#shortcuts)
 - [Side Projects](#side-projects)
 
 
 
-## dotfiles > /dotfiles
+## dotfiles
 
     .bash_profile
     
@@ -52,11 +54,12 @@
 
 
 
-## Terminal (Darwinm Unix)
+## Terminal (Darwin, Unix)
 
 > *.osx : default write com.apple.xxx* 
 
     .osx 
+
 
 
 
