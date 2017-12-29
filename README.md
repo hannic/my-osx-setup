@@ -10,7 +10,7 @@
 
 - [Shortcuts](#shortcuts)
 - [Side Projects](#side-projects)
-
+- [Helper](#helper)
 
 
 ## dotfiles
@@ -71,7 +71,14 @@ Helper functions for start simple webserver, json server, network information (i
     $ curl ipecho.net/plain; echo
 
 
-## Tools - Sublime > /tools
+## Tools 
+- Sublime 
+
+
+## Helper
+A collection of misc utility functions, commands 
+- Extract first page of PDF as JPG image		applescript_first_page_pdf.AppleScript
+- Unlock protected pdf 				shell_unlock-protected-pdf
 
     
 
