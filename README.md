@@ -23,18 +23,17 @@
 
 
 ## Package Manager - Homebrew 
-
-    .brew
-
-    #.git : *workflow reminder* 
-    # local repo:
+    
+> *.brew : workflow reminder* 
+     
+    # local repo
     $ git pull
     $ git branch
     $ git checkout <feature-branch>
     $ git commit -am "message"
     $ git push 
 
-    # remote repo: 
+    # remote repo 
     open pull request
     git merge pull request will merge the changes into master-branch
 
@@ -48,7 +47,9 @@
 
 
 ## Terminal (Darwinm Unix)
-    
+
+> *.osx : default write com.apple.xxx * 
+
     .osx 
 
 
