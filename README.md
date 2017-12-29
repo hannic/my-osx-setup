@@ -76,7 +76,7 @@ Helper functions for start simple webserver, json server, network information (i
 
 
 ## Helper
-A collection of misc utility functions, commands 
+A [collection of misc utility functions](https://github.com/hannic/my-osx-setup/tree/master/helper), commands 
 - Extract first page of PDF as JPG image		applescript_first_page_pdf.AppleScript
 - Unlock protected pdf 				shell_unlock-protected-pdf
 
