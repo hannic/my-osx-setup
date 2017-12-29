@@ -25,10 +25,12 @@
 
 ## Package Manager - Homebrew 
     
-> *.brew : workflow reminder* 
+> *.brew : package manager* 
 
     $ brew upgrade
+    $ brew install <package>
     
+> *.git : workflow reminder* 
      
     # local repo
     $ git pull
