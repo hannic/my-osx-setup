@@ -7,33 +7,31 @@ to complete a new operating system setup - dotfiles, unix, commands, cli apps
     
     .bash_prompt
     
-* .bash_profile 
+    .aliases
 
 
-* .aliases
 
-
-* .brew
-
-
-* .osx 
 
 
 ## Package Manager - Homebrew 
 
-* brew
+    .brew
 
-* git
+    .git
 
-* etc. 
+
+
+
+## Terminal (Darwinm Unix)
+    
+    .osx 
+
 
 
 ## Tools - Sublime > /tools
 
+    
 
-
-
-## Mac Apps 
 
 
 ## Troubleshooting 
