@@ -7,11 +7,11 @@
 ### Table of contents
 - [dotfiles](#dotfiles)
 - [Package Manager - Homebrew](#homebrew)
-
+- [CLI](#cli)
 - [Shortcuts](#shortcuts)
 - [Side Projects](#side-projects)
 - [Helper](#helper)
-
+- [Apps](#apps)
 
 ## dotfiles
 
@@ -25,7 +25,8 @@
 
 
 
-## Package Manager - Homebrew 
+## Package Manager - Homebrew
+Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr* 
     
 > *.brew : package manager* 
 
@@ -51,6 +52,8 @@
 
 
 
+
+
 ## Terminal (Apple)
 
 > *.osx : default write com.apple.xxx* 
@@ -59,7 +62,7 @@
 
 
 ## Terminal (Unix)
-Helper functions for start simple webserver, json server, network information (ip address)
+Utility commands for start simple webserver, json server, network information (ip address)
 
     # simple web server 
     $ python -m SimpleHTTPServer 8000
@@ -70,28 +73,31 @@ Helper functions for start simple webserver, json server, network information (i
     # global ip address
     $ curl ipecho.net/plain; echo
 
+    $ whoami
+    $ whois google.com
 
-## Tools 
-- Sublime 
+
+## CLI 
+
+	* wp-cli
+	* ffmpeg
+	* scdl 
+	* youtube-dl
+	* json-server
+	
 
 
 ## Helper
-A [collection of misc utility functions](https://github.com/hannic/my-osx-setup/tree/master/helper), commands 
-- Extract first page of PDF as JPG image		applescript_first_page_pdf.AppleScript
-- Unlock protected pdf 				shell_unlock-protected-pdf
+A [collection of shell commands](https://github.com/hannic/my-osx-setup/tree/master/helper) 
+- Extract first page of PDF as JPG image, (applescript_first_page_pdf.AppleScript)
+- Unlock protected pdf, (shell_unlock-protected-pdf)
 
     
+## Apps 
+- Sublime 
 
 
-
-## Troubleshooting 
-
-### SSH & Github 
-SSH Key - Still asking for password and passphrase
-
-    $ ssh-add ~/.ssh/id_rsa
-    $ ssh-add -K ~/.ssh/id_rsa
-
+-----
 
 ### Shortcuts
 
@@ -102,12 +108,26 @@ SSH Key - Still asking for password and passphrase
 | ctrl+e | end of current line|
 
 
+-----
+
+## Troubleshooting 
+
+### SSH & Github 
+SSH Key - Still asking for password and passphrase
+
+    $ ssh-add ~/.ssh/id_rsa
+    $ ssh-add -K ~/.ssh/id_rsa
+
+
+
+
 ### Side Projects
 
 | Website | Description |
 | :------ |:----------- |
 | [aaa.com/aa](http://aaa.com/aaa/) | Lorem ipsume |
 | [bbb](http://bbb.com) | Lorem ipsuem|
+
 
 
 ### To Do's
