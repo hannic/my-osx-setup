@@ -1,4 +1,4 @@
-# my-osx-setup
+# Master Hub for an initial macOS Setup 
 > *to complete a new operating system setup - dotfiles, unix, commands, cli apps*
 > *2016 - &copy; [hannic](http://hannic.github.io)*
 
