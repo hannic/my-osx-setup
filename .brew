@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# Get latest Homebrew
+brew update
+
+# Upgrade all already-installed formulae
+brew upgrade
+
+# Installed packages with brew
+brew install npm
+brew install ffmpeg
+brew install git
+brew install mysql
+brew install wget
+brew install youtube-dl
+
+
+###############################################################################
+# ohter package dependecies                                                               #
+###############################################################################
+
+# Mocking a json API Webservice Server
+npm install -g json-server
+# start json-server with json data file 
+json-server db.json
+
+
