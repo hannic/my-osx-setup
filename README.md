@@ -4,6 +4,10 @@
 to complete a new operating system setup - dotfiles, unix, commands, cli apps
 
 ### Table of contents
+- [dotfiles > /dotfiles](#dotfiles)
+- [Side Projects](#side-projects)
+
+
 
 ## dotfiles > /dotfiles
 
@@ -47,6 +51,13 @@ SSH Key - Still asking for password and passphrase
     $ ssh-add -K ~/.ssh/id_rsa
 
 
+
+### Side Projects
+
+| Website | Description |
+| :------ |:----------- |
+| [aaa.com/aa](http://aaa.com/aaa/) | Lorem ipsume |
+| [bbb](http://bbb.com) | Lorem ipsuem|
 
 
 ### To Do's
