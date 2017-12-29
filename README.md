@@ -5,12 +5,15 @@
 
 
 ### Table of contents
-- [dotfiles > /dotfiles](#dotfiles)
+- [dotfiles](#dotfiles)
+- [Package Manager - Homebrew](#homebrew)
+
+- [Shortcuts](#shortcuts)
 - [Side Projects](#side-projects)
 
 
 
-## dotfiles > /dotfiles
+## dotfiles
 
     .bash_profile
     
@@ -23,18 +26,22 @@
 
 
 ## Package Manager - Homebrew 
+    
+> *.brew : package manager* 
 
-    .brew
-
-    #.git : *workflow reminder* 
-    # local repo:
+    $ brew upgrade
+    $ brew install <package>
+    
+> *.git : workflow reminder* 
+     
+    # local repo
     $ git pull
     $ git branch
     $ git checkout <feature-branch>
     $ git commit -am "message"
     $ git push 
 
-    # remote repo: 
+    # remote repo 
     open pull request
     git merge pull request will merge the changes into master-branch
 
@@ -44,13 +51,24 @@
 
 
 
+## Terminal (Apple)
 
+> *.osx : default write com.apple.xxx* 
 
-
-## Terminal (Darwinm Unix)
-    
     .osx 
 
+
+## Terminal (Unix)
+Helper functions for start simple webserver, json server, network information (ip address)
+
+    # simple web server 
+    $ python -m SimpleHTTPServer 8000
+    $ uptime
+
+    # lan ip address 
+    $ ipconfig getifaddr en0
+    # global ip address
+    $ curl ipecho.net/plain; echo
 
 
 ## Tools - Sublime > /tools
@@ -67,6 +85,14 @@ SSH Key - Still asking for password and passphrase
     $ ssh-add ~/.ssh/id_rsa
     $ ssh-add -K ~/.ssh/id_rsa
 
+
+### Shortcuts
+
+| Terminal | Description |
+| :------ |:----------- |
+| ctrl+z | stop a process |
+| ctrl+a | begin of current line|
+| ctrl+e | end of current line|
 
 
 ### Side Projects
