@@ -3,6 +3,10 @@ to complete a new operating system setup - dotfiles, unix, commands, cli apps
 
 ## dotfiles > /dotfiles
 
+    .bash_profile
+    
+    .bash_prompt
+    
 * .bash_profile 
 
 
