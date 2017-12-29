@@ -51,16 +51,24 @@
 
 
 
-
-
-
-## Terminal (Darwin, Unix)
+## Terminal (Apple)
 
 > *.osx : default write com.apple.xxx* 
 
     .osx 
 
 
+## Terminal (Unix)
+Helper functions for start simple webserver, json server, network information (ip address)
+
+    # simple web server 
+    $ python -m SimpleHTTPServer 8000
+    $ uptime
+
+    # lan ip address 
+    $ ipconfig getifaddr en0
+    # global ip address
+    $ curl ipecho.net/plain; echo
 
 
 ## Tools - Sublime > /tools
