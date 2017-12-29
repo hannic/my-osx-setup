@@ -6,6 +6,7 @@
 
 ### Table of contents
 - [dotfiles > /dotfiles](#dotfiles)
+- [Shortcuts](#shortcuts)
 - [Side Projects](#side-projects)
 
 
@@ -25,6 +26,9 @@
 ## Package Manager - Homebrew 
     
 > *.brew : workflow reminder* 
+
+    $ brew upgrade
+    
      
     # local repo
     $ git pull
@@ -48,7 +52,7 @@
 
 ## Terminal (Darwinm Unix)
 
-> *.osx : default write com.apple.xxx * 
+> *.osx : default write com.apple.xxx* 
 
     .osx 
 
@@ -68,6 +72,14 @@ SSH Key - Still asking for password and passphrase
     $ ssh-add ~/.ssh/id_rsa
     $ ssh-add -K ~/.ssh/id_rsa
 
+
+### Shortcuts
+
+| Terminal | Description |
+| :------ |:----------- |
+| ctrl+z | stop a process |
+| ctrl+a | begin of current line|
+| ctrl+e | end of current line|
 
 
 ### Side Projects
