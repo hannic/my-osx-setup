@@ -1,7 +1,8 @@
 # my-osx-setup
-> *2016 [hannic](http://hannic.github.io)*
+> *to complete a new operating system setup - dotfiles, unix, commands, cli apps*
+> *2016 - &copy; [hannic](http://hannic.github.io)*
 
-to complete a new operating system setup - dotfiles, unix, commands, cli apps
+
 
 ### Table of contents
 - [dotfiles > /dotfiles](#dotfiles)
