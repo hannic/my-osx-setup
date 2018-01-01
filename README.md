@@ -95,6 +95,11 @@ A [collection of shell commands](https://github.com/hannic/my-osx-setup/tree/mas
     
 ## Apps 
 - Sublime 
+- Go2Shell
+- Bookfactory
+- Img2icns: Image conversion tool to create Mac OS folder and Bar icons.
+- QMarked: Enable preview mode for .markdown and .md files.
+
 
 
 -----
@@ -133,9 +138,12 @@ SSH Key - Still asking for password and passphrase
 ### To Do's
 ------------
 
+- [ ] shell-tools - a collection of various shell tools
 - [ ] gist  
 - [ ] latex cheat sheet  
+- [ ] acollection of <ProgLang> scripts used in my course work at unibe.ch
 
+It is based of the work of xxx (Found here: xxx).
 
 
 
