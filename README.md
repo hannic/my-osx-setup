@@ -96,9 +96,11 @@ A [collection of shell commands](https://github.com/hannic/my-osx-setup/tree/mas
 ## Apps 
 ### Sublime
 Precondition: bin directory and .bash_profile exists in home directory
+
 	ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
 For reloading .bash_profile preferences without quitting current terminal settings
+
 	source ~/.bash_profile
 
 - Go2Shell
