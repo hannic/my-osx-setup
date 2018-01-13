@@ -94,7 +94,13 @@ A [collection of shell commands](https://github.com/hannic/my-osx-setup/tree/mas
 
     
 ## Apps 
-### Sublime
+Settings of my favorite applications I use on my Mac. 
+- Go2Shell
+- Bookfactory
+- Img2icns: Image conversion tool to create Mac OS folder and Bar icons.
+- QMarked: Enable preview mode for .markdown and .md files.
+
+## Sublime
 Precondition: bin directory and .bash_profile exists in home directory
 
 	ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
@@ -103,10 +109,7 @@ For reloading .bash_profile preferences without quitting current terminal settin
 
 	source ~/.bash_profile
 
-- Go2Shell
-- Bookfactory
-- Img2icns: Image conversion tool to create Mac OS folder and Bar icons.
-- QMarked: Enable preview mode for .markdown and .md files.
+
 
 
 
