@@ -104,7 +104,10 @@ Settings of my favorite applications I use on my Mac.
 ## Sublime
 Precondition: bin directory and .bash_profile exists in home directory
 
-	ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+	$ ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+
+	$ subl . 
+	$ subl <filename|foldername> 
 
 For reloading .bash_profile preferences without quitting current terminal settings
 
