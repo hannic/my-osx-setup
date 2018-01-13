@@ -12,6 +12,7 @@
 - [Side Projects](#side-projects)
 - [Helper](#helper)
 - [Apps](#apps)
+- [Sublime](#sublime)
 
 ## dotfiles
 
