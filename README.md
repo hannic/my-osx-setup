@@ -106,14 +106,18 @@ Precondition: bin directory and .bash_profile exists in home directory
 
 	$ ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
-	$ subl . 
-	$ subl <filename|foldername> 
-
 For reloading .bash_profile preferences without quitting current terminal settings
 
 	source ~/.bash_profile
 
+Open Sublime Text 2 in Terminal 
+	
+	$ subl . 
+	$ subl <filename|foldername> 
 
+=Important Shortcut:=
+
+	CMD + ALT + Left Mouse button
 
 
 
