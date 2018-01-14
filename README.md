@@ -13,6 +13,7 @@
 - [Helper](#helper)
 - [Apps](#apps)
 - [Sublime](#sublime)
+- [Sublime Shortcuts](#sublime-shortcuts)
 
 ## dotfiles
 
@@ -115,7 +116,8 @@ Open Sublime Text 2 in Terminal
 	$ subl . 
 	$ subl <filename|foldername> 
 
-__**Important Sublime Shortcuts:**__
+
+## Sublime Shortcuts
 
 	CMD + ALT + Left Mouse button
 	
@@ -123,8 +125,6 @@ __**Important Sublime Shortcuts:**__
 | :------ |:----------- |
 | CMD + ALT + Left Mouse button | Vertical Selection |
 	
-
-
 
 -----
 
