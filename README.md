@@ -119,9 +119,9 @@ __**Important Sublime Shortcuts:**__
 
 	CMD + ALT + Left Mouse button
 	
-	| Terminal | Description |
-	| :------ |:----------- |
-	| CMD + ALT + Left Mouse button | Vertical Selection |
+| Shortcut | Description |
+| :------ |:----------- |
+| CMD + ALT + Left Mouse button | Vertical Selection |
 	
 
 
