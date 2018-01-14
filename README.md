@@ -148,8 +148,6 @@ SSH Key - Still asking for password and passphrase
     $ ssh-add -K ~/.ssh/id_rsa
 
 
-
-
 ### Side Projects
 
 | Website | Description |
@@ -157,6 +155,11 @@ SSH Key - Still asking for password and passphrase
 | [aaa.com/aa](http://aaa.com/aaa/) | Lorem ipsume |
 | [bbb](http://bbb.com) | Lorem ipsuem|
 
+
+| [bbb](http://bbb.com) | Lorem ipsuem|
+
+### References
+https://support.discordapp.com/hc/de/articles/210298617-Grundlagen-des-Markdown-Texts-Chatformatierung-fett-kursiv-unterstrichen-
 
 
 ### To Do's
