@@ -115,7 +115,7 @@ Open Sublime Text 2 in Terminal
 	$ subl . 
 	$ subl <filename|foldername> 
 
-=Important Shortcut:=
+**Important Shortcut:**
 
 	CMD + ALT + Left Mouse button
 
