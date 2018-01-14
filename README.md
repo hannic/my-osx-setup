@@ -115,9 +115,14 @@ Open Sublime Text 2 in Terminal
 	$ subl . 
 	$ subl <filename|foldername> 
 
-__**Important Shortcut:**__
+__**Important Sublime Shortcuts:**__
 
 	CMD + ALT + Left Mouse button
+	
+	| Terminal | Description |
+	| :------ |:----------- |
+	| CMD + ALT + Left Mouse button | Vertical Selection |
+	
 
 
 
