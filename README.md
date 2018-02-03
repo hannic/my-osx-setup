@@ -24,9 +24,6 @@
     .aliases
 
 
-
-
-
 ## Package Manager - Homebrew
 Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr* 
     
@@ -171,6 +168,4 @@ https://support.discordapp.com/hc/de/articles/210298617-Grundlagen-des-Markdown-
 - [ ] acollection of <ProgLang> scripts used in my course work at unibe.ch
 
 It is based of the work of xxx (Found here: xxx).
-
-
 
