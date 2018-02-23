@@ -134,6 +134,7 @@ Open Sublime Text 2 in Terminal
 | ctrl+e | end of current line|
 
 **IntelliJ**
+
 https://gist.github.com/uarun/4699940
 
 -----
