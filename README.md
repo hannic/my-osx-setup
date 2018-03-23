@@ -14,6 +14,7 @@
 - [Apps](#apps)
 - [Sublime](#sublime)
 - [Shortcuts](#shortcuts)
+- [python](#python)
 
 ## dotfiles
 
@@ -171,4 +172,8 @@ https://support.discordapp.com/hc/de/articles/210298617-Grundlagen-des-Markdown-
 - [ ] acollection of <ProgLang> scripts used in my course work at unibe.ch
 
 It is based of the work of xxx (Found here: xxx).
+
+## python
+	$ python -i <file_name.py>
+
 
