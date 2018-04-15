@@ -15,6 +15,7 @@
 - [Sublime](#sublime)
 - [Shortcuts](#shortcuts)
 - [python](#python)
+- [Markdown](#markdown)
 
 ## dotfiles
 
@@ -173,5 +174,13 @@ It is based of the work of xxx (Found here: xxx).
 
 ## python
 	$ python -i <file_name.py>
+
+
+
+## Markdown
+- Resize an imge, only works with html img-tag 
+< img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" />
+
+
 
 
