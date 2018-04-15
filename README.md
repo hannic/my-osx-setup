@@ -153,8 +153,8 @@ SSH Key - Still asking for password and passphrase
 
 | Website | Description |
 | :------ |:----------- |
-| [aaa.com/aa](http://aaa.com/aaa/) | Lorem ipsume |
-| [bbb](http://bbb.com) | Lorem ipsuem|
+| [moleskine-latex-templates](https://github.com/hannic/moleskine-latex-templates) | moleskine-latex-templates |
+| [r-likert-results](https://github.com/hannic/r-likert-results) | r-likert-results|
 
 
 | [bbb](http://bbb.com) | Lorem ipsuem|
