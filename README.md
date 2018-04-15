@@ -64,7 +64,7 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
 ## Terminal (Unix)
 Utility commands for start simple webserver, json server, network information (ip address)
 
-    # simple web server 
+    # start simple web server on localhost:8000
     $ python -m SimpleHTTPServer 8000
     $ uptime
 
@@ -155,8 +155,6 @@ SSH Key - Still asking for password and passphrase
 | :------ |:----------- |
 | [moleskine-latex-templates](https://github.com/hannic/moleskine-latex-templates) | moleskine-latex-templates |
 | [r-likert-results](https://github.com/hannic/r-likert-results) | r-likert-results|
-
-
 | [bbb](http://bbb.com) | Lorem ipsuem|
 
 ### References
