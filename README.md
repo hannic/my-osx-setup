@@ -78,6 +78,9 @@ Utility commands for start simple webserver, json server, network information (i
 
     $ whoami
     $ whois google.com
+    
+    # get IP address
+    $ curl ifconfig.me	
 
 
 ## CLI 
@@ -129,8 +132,7 @@ Open Sublime Text 2 in Terminal
 
 -----
 
-**Unix Shell**
-	$ curl ifconfig.me	# get IP address
+
 
 **Terminal:**
 
