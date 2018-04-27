@@ -16,7 +16,7 @@
 - [Shortcuts](#shortcuts)
 - [python](#python)
 - [Markdown](#markdown)
-- [Unix Shell](#shell)
+
 
 
 ## dotfiles
