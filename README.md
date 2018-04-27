@@ -16,6 +16,8 @@
 - [Shortcuts](#shortcuts)
 - [python](#python)
 - [Markdown](#markdown)
+- [Unix Shell](#shell)
+
 
 ## dotfiles
 
@@ -126,6 +128,9 @@ Open Sublime Text 2 in Terminal
 	
 
 -----
+
+**Unix Shell**
+	$ curl ifconfig.me	# get IP address
 
 **Terminal:**
 
