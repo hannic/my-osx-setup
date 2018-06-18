@@ -179,8 +179,10 @@ https://support.discordapp.com/hc/de/articles/210298617-Grundlagen-des-Markdown-
 
 It is based of the work of xxx (Found here: xxx).
 
-## python
+## Python
 	$ python -i <file_name.py>
+
+## pip3
 
 ### install Python Index Packages
 	$ pip3 install <package> ** e.g. pandas **
