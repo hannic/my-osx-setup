@@ -182,6 +182,8 @@ SSH Key - Still asking for password and passphrase
 
 	$ pip install --upgrade ipython jupyter
 	$ ipython notebook
+	
+*http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3*
 
 
 -------
