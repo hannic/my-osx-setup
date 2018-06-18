@@ -182,6 +182,9 @@ It is based of the work of xxx (Found here: xxx).
 ## python
 	$ python -i <file_name.py>
 
+### install Python Index Packages
+	$ pip3 install <package> ** e.g. pandas **
+
 
 
 ## Markdown
