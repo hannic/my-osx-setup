@@ -187,6 +187,7 @@ It is based of the work of xxx (Found here: xxx).
 ### install Python Index Packages
 	$ pip3 install <package> ** e.g. pandas **
 
+* pandas
 
 
 ## Markdown
