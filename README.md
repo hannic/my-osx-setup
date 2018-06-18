@@ -177,7 +177,14 @@ SSH Key - Still asking for password and passphrase
 
 	$ pip3 list --outdated 
 	$ pip3 install scdl --upgrade; $ pip3 install urllib3 -U
-	
+
+### Jupyter Environment
+
+	$ pip install --upgrade ipython jupyter
+	$ ipython notebook
+
+
+-------
 
 
 ### Side Projects
