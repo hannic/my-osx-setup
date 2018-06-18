@@ -165,9 +165,11 @@ SSH Key - Still asking for password and passphrase
 ### install Python Index Packages
 	$ pip3 install <package> ** e.g. pandas **
 	
-*my python packages*
-* pandas
-* numpy
+*ML python packages*
+- pandas
+- numpy
+- scikit-learn     
+- scipy        
 
 * scdl
 
