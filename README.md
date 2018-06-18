@@ -157,6 +157,27 @@ SSH Key - Still asking for password and passphrase
     $ ssh-add -K ~/.ssh/id_rsa
 
 
+## Python
+	$ python -i <file_name.py>
+
+## pip3
+
+### install Python Index Packages
+	$ pip3 install <package> ** e.g. pandas **
+	
+*my python packages*
+* pandas
+* numpy
+
+* scdl
+
+### Upgrade Python package
+
+	$ pip3 list --outdated 
+	$ pip3 install scdl --upgrade; $ pip3 install urllib3 -U
+	
+
+
 ### Side Projects
 
 | Website | Description |
@@ -179,26 +200,8 @@ https://support.discordapp.com/hc/de/articles/210298617-Grundlagen-des-Markdown-
 
 It is based of the work of xxx (Found here: xxx).
 
-## Python
-	$ python -i <file_name.py>
-
-## pip3
-
-### install Python Index Packages
-	$ pip3 install <package> ** e.g. pandas **
 	
-*my python packages*
-* pandas
-* numpy
-
-* scdl
-
-### Upgrade Python package
-
-	$ pip3 list --outdated 
-	$ pip3 install scdl --upgrade 
-*or*
-	$ pip3 install urllib3 -U
+	
 
 ## Markdown
 - Resize an imge, only works with html img-tag 
