@@ -16,6 +16,7 @@
 - [Shortcuts](#shortcuts)
 - [python](#python)
 - [Markdown](#markdown)
+- [Raspberry Pi](#raspberrypi)
 
 
 
@@ -81,6 +82,13 @@ Utility commands for start simple webserver, json server, network information (i
     
     # get IP address
     $ curl ifconfig.me	
+    
+    #disk usage
+	$ du -ch 
+    #disk free
+    $ du -h
+    
+    $ ifconfig wlan0
 
 
 ## CLI 
@@ -186,6 +194,12 @@ SSH Key - Still asking for password and passphrase
 	
 *http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3*
 
+
+### Raspberry Pi
+
+
+# wifi settings
+	sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 
 -------
 
