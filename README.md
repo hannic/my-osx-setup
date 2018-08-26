@@ -90,6 +90,7 @@ Utility commands for start simple webserver, json server, network information (i
 	* scdl 
 	* youtube-dl
 	* json-server
+	* nmap
 	
 
 
