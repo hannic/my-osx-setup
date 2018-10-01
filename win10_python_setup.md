@@ -43,7 +43,7 @@ Copy & Paste the installation path to PATH
     > conda install < package-name >
   
  ## Customization
-    '''
+    '''css
     // overwrite in Settings > "Open Config Folder" > style.less
     // added for output panel
     div.panel-body.padded pre {
