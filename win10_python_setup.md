@@ -3,7 +3,7 @@
  
    **What you need to install:** Anaconda Navigator, Atom Editor
  
-  ![alt text][atom-icon]
+  ![alt text][atom-icon|512x397,20%]
  
  ## Install Anaconda Navigator
  Add python and conda "where python" installation path to Windows Environment Systemvariable PATH
