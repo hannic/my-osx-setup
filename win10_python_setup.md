@@ -19,7 +19,13 @@ Copy & Paste the installation path to PATH
  
  ## Install Atom Editor
  
+  **Settings**
+ - check boxes for "Show Indent Guide" and "Show Invisibles"
+ 
  ![alt text][logo]
+ 
+
+
  
  Install Atom Packages
  
