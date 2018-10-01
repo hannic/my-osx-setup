@@ -2,7 +2,9 @@
  >***These are the steps that worked for me to setup an appropriate Python environment when you have to work with a Windows machine***
  
    **What you need to install:** 
-   Atom Editor  <img src="https://png.icons8.com/ios/1600/atom-editor.png" width="48">..
+   
+   Atom Editor  <img src="https://png.icons8.com/ios/1600/atom-editor.png" width="48">
+   
    and Anaconda Navigator <img src="http://www.datamasters.com.br/wp-content/uploads/2017/08/thumb-anaconda.png" width="48">
 
 
