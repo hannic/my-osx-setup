@@ -34,11 +34,6 @@ Copy & Paste the installation path to PATH
  
     > apm install <atom-python-virtualenv> 
 
-## Shortcuts in Atom
-
-      shift+ctrl+b | run script
-      shift+ctrl+p | opens search box 
- 
  ### Use Anaconda Prompt to install packages
     > conda install < package-name >
   
@@ -59,9 +54,15 @@ Copy & Paste the installation path to PATH
     > atom
 
  
-  ### Daily Routine: Start Jupyter Notebook
+### Daily Routine: Start Jupyter Notebook
   
     > jupyter notebook 
+
+
+### Shortcuts in Atom
+
+      shift+ctrl+b | run script
+      shift+ctrl+p | opens search box 
 
 ***
 ### References 
