@@ -3,7 +3,8 @@
  
    **What you need to install:** Anaconda Navigator, Atom Editor
  
- <img src="https://png.icons8.com/ios/1600/atom-editor.png" width="48">
+ <img src="https://png.icons8.com/ios/1600/atom-editor.png" width="48"> <img src="http://www.datamasters.com.br/wp-content/uploads/2017/08/thumb-anaconda.png" width="48">
+
 
 
  
