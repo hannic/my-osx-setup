@@ -22,6 +22,7 @@
  1. Open Anaconda Prompt
  
    > activate name-of-environment
+   
    > atom
 
  
