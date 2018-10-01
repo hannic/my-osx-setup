@@ -13,7 +13,9 @@
  Virtual Env for python environments
  
     > apm install <atom-python-virtualenv> 
-    
+
+## Shortcuts in Atom
+
       shift+ctrl+b | run script
       shift+ctrl+p | opens search box 
  
