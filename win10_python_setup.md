@@ -20,8 +20,10 @@
  
  ### Daily Routine: How to open Atom Editor with a given Virtualenvironment
  1. Open Anaconda Prompt
- 2. C:\>activate name-of-environment
- 3. (base) C:\>atom
+ 
+   > activate name-of-environment
+   > atom
+
  
   ### Daily Routine: Start Jupyter Notebook
   
