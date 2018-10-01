@@ -1,9 +1,14 @@
- # How to work with python, pip on Windows 10
- ***how to setup a workable python environment when you have to work in windows 10***
+ # How to work with Python (pip,virtualenv) on a Windows machine
+ ***These are the steps that worked for me to setup an appropriate Python environment when you have to work with a Windows machine***
  
  ## Install Anaconda Navigator
- Add pytohn and conda "where python" installation path to Windows Systemvariables
+ Add python and conda "where python" installation path to Windows Environment Systemvariable PATH
  
+    > where python
+    > where conda 
+    
+Copy & Paste the installation path to PATH
+
     > SETX "%PATH%";C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Scripts; 
  
  ## Install Atom Editor
