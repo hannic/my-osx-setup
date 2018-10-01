@@ -42,6 +42,14 @@ Copy & Paste the installation path to PATH
  ### Use Anaconda Prompt to install packages
     > conda install < package-name >
   
+ ## Customization
+    '''
+    // overwrite in Settings > "Open Config Folder" > style.less
+    // added for output panel
+    div.panel-body.padded pre {
+    font-size: 16px; // set to whatever font size you want
+    }
+ 
  
  ### Daily Routine: How to open Atom Editor with a given Virtualenvironment
  Open Anaconda Prompt
