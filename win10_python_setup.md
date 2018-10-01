@@ -55,6 +55,13 @@ Copy & Paste the installation path to PATH
     > jupyter notebook 
 
 ***
+### References 
+https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444
+https://flight-manual.atom.io/using-atom/sections/atom-packages/
+https://atom.io/packages/autocomplete-python
+https://towardsdatascience.com/environment-management-with-conda-python-2-3-b9961a8a5097
+
+***
 
 [some link](https://www.google.com)
 
