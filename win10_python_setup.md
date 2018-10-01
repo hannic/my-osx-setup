@@ -1,5 +1,5 @@
  # How to work with Python (pip,virtualenv) on a Windows machine
- ***These are the steps that worked for me to setup an appropriate Python environment when you have to work with a Windows machine***
+ >***These are the steps that worked for me to setup an appropriate Python environment when you have to work with a Windows machine***
  
    **What you need to install:** Atom Editor, Anaconda Navigator
  
