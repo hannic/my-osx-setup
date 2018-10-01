@@ -27,7 +27,7 @@ Copy & Paste the installation path to PATH
 
 
  
- Install Atom Packages: script, atom-python-virtualenv, autocomplete-python
+ Install Atom Packages: script, atom-python-virtualenv, autocomplete-python, (minimap)
  
  Virtual Env for python environments
  
