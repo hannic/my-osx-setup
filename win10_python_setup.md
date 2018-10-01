@@ -9,6 +9,7 @@
  ## Install Atom Editor
  
  Install Atom Packages
+ 
  Virtual Env for python environments
  
     > apm install <atom-python-virtualenv> 
