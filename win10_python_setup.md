@@ -16,6 +16,8 @@ Copy & Paste the installation path to PATH
  
  ## Install Atom Editor
  
+ ![alt text][logo]
+ 
  Install Atom Packages
  
  Virtual Env for python environments
@@ -42,4 +44,13 @@ Copy & Paste the installation path to PATH
   ### Daily Routine: Start Jupyter Notebook
   
     > jupyter notebook 
+
+
+
+[some link](https://www.google.com)
+
+
+
+
+[logo]: https://user-images.githubusercontent.com/8896124/30044182-61ee94c6-922e-11e7-8181-10122681a1d9.gif "Atom Editor"
 
