@@ -23,4 +23,7 @@
  2. C:\>activate name-of-environment
  3. (base) C:\>atom
  
- 
+  ### Daily Routine: Start Jupyter Notebook
+  
+    > jupyter notebook 
+
