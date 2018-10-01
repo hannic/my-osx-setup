@@ -3,6 +3,7 @@
  
    **What you need to install:** Anaconda Navigator, Atom Editor
  
+ <img src="https://github.com/favicon.ico" width="48">
   ![alt text][atom-icon]
   ![test](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png| width=48)
  
