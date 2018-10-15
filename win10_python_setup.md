@@ -68,6 +68,10 @@ https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 
     tab | code completion
     shift + tab | parameters
+    shift + tab (2x) | doc
+    shift + tab (3x)| seperate window
+
+
 
 
 
