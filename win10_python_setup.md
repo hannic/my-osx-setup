@@ -65,6 +65,7 @@ https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
     !pip install some_package
     !head xyz.txt
     %env //to list your environment variables.
+    ??tf.arg_max //shows source code
 
     tab | code completion
     shift + tab | parameters
