@@ -88,7 +88,7 @@ https://towardsdatascience.com/environment-management-with-conda-python-2-3-b996
 
 
 [logo]: https://user-images.githubusercontent.com/8896124/30044182-61ee94c6-922e-11e7-8181-10122681a1d9.gif "Atom Editor"
-[atom-icon]: https://png.icons8.com/ios/1600/atom-editor.png "Atom Icon"
+<!--[atom-icon]: https://png.icons8.com/ios/1600/atom-editor.png "Atom Icon"-->
 
 ![alt text][atom-icon]
 
