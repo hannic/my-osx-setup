@@ -58,6 +58,17 @@ Copy & Paste the installation path to PATH
   
     > jupyter notebook 
 
+https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
+
+#### in jupyter notebook
+    % lsmagic //get a list of all the available magics
+    !pip install some_package
+    !head xyz.txt
+    %env //to list your environment variables.
+
+
+
+
 
 ### Shortcuts in Atom
 
