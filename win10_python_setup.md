@@ -61,6 +61,7 @@ Copy & Paste the installation path to PATH
 https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 
 #### in jupyter notebook
+    '''bash
     % lsmagic //get a list of all the available magics
     !pip install some_package
     !head xyz.txt
