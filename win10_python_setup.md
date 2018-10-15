@@ -66,6 +66,8 @@ https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
     !head xyz.txt
     %env //to list your environment variables.
 
+    tab | code completion
+    shift + tab | parameters
 
 
 
