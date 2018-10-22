@@ -1,7 +1,4 @@
-<script type="text/javascript" async
-src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
-config=TeX-MML-AM_CHTML"
-</script>
+
 
 # Cheatsheet - Distances & Similarity
 
@@ -22,3 +19,4 @@ $$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
 ---
 http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
 
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? config=TeX-MML-AM_CHTML"</script>
