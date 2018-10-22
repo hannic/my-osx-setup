@@ -1,63 +1,27 @@
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/prismjs@1.6.0/themes/prism-tomorrow.css"/>
-<style>
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  background: hsl(0, 0%, 90%);
-}
-pre {
-  color: hsl(0, 0%, 90%);
-  background: hsl(0, 0%, 10%);
-  padding: 10px;
-  border-top-right-radius: 6px;
-  border-top-left-radius: 6px;
-  margin-bottom: 0;
-}
-.render-js {
-  background: white;
-  border: 2px solid hsl(0, 0%, 10%);
-  padding: 10px;
-  border-bottom-right-radius: 6px;
-  border-bottom-left-radius: 6px;
-}
-</style>
 
-# Actually render your code blocks
 
-This is my markdown file.
+# Cheatsheet - Distances & Similarity
 
-```render
-DOM_NODE.innerHTML = 'Hey there!'
-```
+<!--
+  d(p,q) = || q-p||<sub>2</sub> = $$\sqrt{(p_1-q_1)^2 + .. +(p_n-q_n)^2}$$
+   \sqrt{k}
+  $ \sum_{\forall i}{x_i^{2}} $
+-->
 
-What About babel?
------------------
+## Minkowski Distance
 
-If you want to use babel, make sure to add babel-standalone like this file does at the top:
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| Manhattan      | right-aligned | $1600 |
+| Euclid    | centered      |   $12 |
+| Mahalanobis Distance | are neat      |    $1 |
 
-```render-babel
-class Demo extends React.Component {
-  componentDidMount() {
-    setInterval(() => this.forceUpdate(), 500)
-  }
-  render() {
-    return <h1>This is cool times {Date.now()}</h1>
-  }
-}
+<!--$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$-->
 
-ReactDOM.render(
-  <Demo/>,
-  DOM_NODE
-)
-```
+---
+http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
 
-Isn't that
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? config=TeX-MML-AM_CHTML"</script>
 
-- Cool
-- Awesome
-- Incredibly inflexible?
 
-Yes.
 
-<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
-<script src="https://unpkg.com/react@15.6.1/dist/react.min.js"></script>
-<script src="https://unpkg.com/react-dom@15.6.1/dist/react-dom.min.js"></script>
