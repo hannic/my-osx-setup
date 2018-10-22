@@ -1,10 +1,10 @@
 # Cheatsheet - Distances & Similarity
 
+  <!--
   d(p,q) = || q-p||<sub>2</sub> = $$\sqrt{(p_1-q_1)^2 + .. +(p_n-q_n)^2}$$
-  
-  \sqrt{k}
-
-$ \sum_{\forall i}{x_i^{2}} $
+  # \sqrt{k}
+  # $ \sum_{\forall i}{x_i^{2}} $
+  -->
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
