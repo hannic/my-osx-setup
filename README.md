@@ -235,6 +235,7 @@ It is based of the work of xxx (Found here: xxx).
 ## Markdown
 - Resize an imge, only works with html img-tag 
 < img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" />
+- https://markdown-it.github.io/
 
 
 
