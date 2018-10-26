@@ -5,7 +5,9 @@
 > *to complete a new operating system setup - dotfiles, unix, commands, cli apps*
 > *2016 - &copy; [hannic](http://hannic.github.io)*
 
-
+::: warning
+*here be dragons*
+:::
 
 ### Table of contents
 - [dotfiles](#dotfiles)
