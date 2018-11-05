@@ -61,12 +61,14 @@ Copy & Paste the installation path to PATH
 https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 
 #### in jupyter notebook
+    command + shift + P | shows a search box 
     '''bash
     % lsmagic //get a list of all the available magics
     !pip install some_package
     !head xyz.txt
     %env //to list your environment variables.
     ??tf.arg_max //shows source code
+    
 
     tab | code completion
     shift + tab | parameters
