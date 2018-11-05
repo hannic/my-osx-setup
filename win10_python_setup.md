@@ -61,6 +61,15 @@ Copy & Paste the installation path to PATH
 https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
 
 #### in jupyter notebook
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| command + shift + P     | shows a search box  | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
     command + shift + P | shows a search box 
     '''bash
     % lsmagic //get a list of all the available magics
