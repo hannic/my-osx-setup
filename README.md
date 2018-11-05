@@ -22,6 +22,7 @@
 - [python](#python)
 - [Markdown](#markdown)
 - [Raspberry Pi](#raspberrypi)
+- [Windows 10 & Python](https://github.com/hannic/my-osx-setup/blob/master/win10_python_setup.md)
 
 
 
