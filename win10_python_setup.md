@@ -77,6 +77,7 @@ https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
     !head xyz.txt
     %env //to list your environment variables.
     ??tf.arg_max //shows source code
+    help(tf.arg_max)
     
 
     tab | code completion
