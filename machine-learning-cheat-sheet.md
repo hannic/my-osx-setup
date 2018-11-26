@@ -12,9 +12,7 @@ The place where I host most valuable information, links and tutorials.
 - https://github.com/WillKoehrsen/recurrent-neural-networks
 
 
-### TIL 
-Today, I Learned. 
-- Lorem ipsum
+
 
 ### Misc
 
