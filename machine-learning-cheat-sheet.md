@@ -1,5 +1,5 @@
 # Machine Learning My Cheat Sheet
-The place where I host most valuable information, links and tutorials. 
+The place where I plan to host most valuable information, links and tutorials etc. 
 
 
 ## Neuronal Networks
