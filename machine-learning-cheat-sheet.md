@@ -9,5 +9,5 @@ The place where I host most valuable information, links and tutorials.
 
 ## HowTo
 - https://elitedatascience.com/beginner-mistakes
-- <italique>"master the techniques and algorithms of “classical” machine learning, which serve as building blocks for advanced topics."</italique>
+- <i>"master the techniques and algorithms of “classical” machine learning, which serve as building blocks for advanced topics."</i>
 
