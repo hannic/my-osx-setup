@@ -11,8 +11,12 @@ The place where I plan to host most valuable information, links and tutorials et
 - https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
 - https://github.com/WillKoehrsen/recurrent-neural-networks
 
+### Reinforcement Learning
+- tbd
 
-
+### Recommendation systems
+Similarity:
+- http://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/
 
 ### Misc
 
@@ -38,3 +42,5 @@ The place where I plan to host most valuable information, links and tutorials et
 ## For beginners
 Materials for explaining to absolute beginners 
 - https://elitedatascience.com/primer
+
+
