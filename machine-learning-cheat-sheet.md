@@ -1,13 +1,22 @@
 # Machine Learning My Cheat Sheet
 The place where I host most valuable information, links and tutorials. 
 
+
 ## Neuronal Networks
 
 ### CNN
 - http://cs231n.github.io/convolutional-networks/
 
+### RNN
+- https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
+- https://github.com/WillKoehrsen/recurrent-neural-networks
 
 
+### TIL 
+Today, I Learned. 
+- Lorem ipsum
+
+### Misc
 
 ## Workflow for building model
 - Importing data
@@ -18,7 +27,7 @@ The place where I host most valuable information, links and tutorials.
 - Feature engineering
 
 
-## HowTo
+## How to
 - https://elitedatascience.com/beginner-mistakes
 - <i>"master the techniques and algorithms of “classical” machine learning, which serve as building blocks for advanced topics."</i>
 
