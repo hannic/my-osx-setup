@@ -130,6 +130,15 @@ Settings of my favorite applications I use on my Mac.
 - Bookfactory
 - Img2icns: Image conversion tool to create Mac OS folder and Bar icons.
 - QMarked: Enable preview mode for .markdown and .md files.
+- FileZilla: backup saved connections
+- MAMP
+- Tor Browser
+
+### Inventory
+- Delicious Library 3
+- Books
+- iTunes music library
+
 
 ## Sublime
 Precondition: bin directory and .bash_profile exists in home directory
