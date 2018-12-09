@@ -60,6 +60,16 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
     $ git checkout <master-branch>
     $ git pull will synce the code base 
 
+# installed brew packages:
+	faac		lame		libvpx		opus		texi2html
+	fdk-aac		libav		libxml2		pkg-config	unrar
+	ffmpeg		libidn2		movgrab		python		wget
+	freetype	libmagic	mysql		python3		x264
+	gdbm		libogg		nasm		python@2	xvid
+	gettext		libpng		nmap		qt		xz
+	git		libunistring	node		readline	yasm
+	groovy		libvo-aacenc	openssl		sphinx-doc	youtube-dl
+	icu4c		libvorbis	openssl@1.1	sqlite
 
 
 
@@ -143,6 +153,7 @@ Open Sublime Text 2 in Terminal
 | Shortcut | Description |
 | :------ |:----------- |
 | CMD + ALT + Left Mouse button | Vertical Selection |
+| CMD + CTRL + J | format pretty json |
 	
 
 -----
