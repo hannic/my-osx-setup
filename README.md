@@ -133,6 +133,7 @@ Settings of my favorite applications I use on my Mac.
 - FileZilla: backup saved connections
 - MAMP
 - Tor Browser
+- Wireshark
 
 ### Inventory
 - Delicious Library 3
