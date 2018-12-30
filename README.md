@@ -205,7 +205,9 @@ SSH Key - Still asking for password and passphrase
 - pandas
 - numpy
 - scikit-learn     
-- scipy        
+- scipy  
+- librosa (conda install -c conda-forge librosa)
+
 
 * scdl
 
