@@ -83,10 +83,15 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
 
 ## Terminal (Unix)
 Utility commands for start simple webserver, json server, network information (ip address)
-
+    
     # start simple web server on localhost:8000
     $ python -m SimpleHTTPServer 8000
     $ uptime
+    
+    # Python 3 equivalent of “python -m SimpleHTTPServer”
+    $ python3 -m http.server
+    # or with bindings: 
+    $ python -m http.server 8000 --bind 127.0.0.1
 
     # lan ip address 
     $ ipconfig getifaddr en0
