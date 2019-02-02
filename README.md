@@ -105,9 +105,11 @@ Utility commands for start simple webserver, json server, network information (i
     $ curl ifconfig.me	
     
     #disk usage
-	$ du -ch 
+    $ du -ch 
     #disk free
     $ du -h
+    #lists all files und folder with its size (level two) and sorts them
+    $ du -hd 2 . /Users/yobo/Google\ Drive/ | sort -n -r
     
     $ ifconfig wlan0
 
