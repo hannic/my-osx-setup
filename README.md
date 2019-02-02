@@ -121,7 +121,8 @@ Utility commands for start simple webserver, json server, network information (i
 	* json-server
 	* nmap
 	
-
+### Examples
+	$ for x in ls *.webp; do  ffmpeg -i $x $x.jpg; done
 
 ## Helper
 A [collection of shell commands](https://github.com/hannic/my-osx-setup/tree/master/helper) 
