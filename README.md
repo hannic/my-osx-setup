@@ -23,6 +23,7 @@
 - [Markdown](#markdown)
 - [Raspberry Pi](#raspberrypi)
 - [Windows 10 & Python](https://github.com/hannic/my-osx-setup/blob/master/win10_python_setup.md)
+- [iOS](#ios)
 
 
 
@@ -272,6 +273,22 @@ It is based of the work of xxx (Found here: xxx).
 < img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" />
 - https://markdown-it.github.io/
 
+
+
+## iOS
+- Create own ringtones of any mp3 in iTunes:
+1. Öffnen Sie iTunes und wählen Sie in der Menüleiste iTunes -> Einstellungen.
+2. Unter Allgemein -> Importeinstellungen -> Importieren mit wählen Sie AAC Codierer. Unter Einstellung wählen Sie Höhere Qualität. Bestätigen Sie mit OK.
+3. Wählen Sie das gewünschte Lied in iTunes aus. Beachten Sie, dass diese Anleitung nicht mit offline gespeicherten Apple Music-Liedern funktioniert.
+4. Machen Sie einen Rechtsklick auf das entsprechende Lied und wählen Sie Informationen.
+5. Im Reiter Optionen stellen Sie die gewünschte Zeitspanne ein, die Sie als Klingelton haben möchten. Achtung: Der Klingelton darf maximal 40 Sekunden lang sein.
+6. Bei einem weiteren Rechtsklick auf das Lied wählen Sie AAC-Version erstellen aus.
+Jetzt sollten sich in Ihrer Mediathek zwei Lieder befinden – einmal die Ursprungsversion und einmal die neue mit der richtigen Zeitspanne.
+7. Klicken Sie nun rechts auf die neue, kurze Version und wählen Sie Im Finder anzeigen.
+8. Damit iTunes die Datei als Klingelton erkennt, müssen Sie das Dateiformat ändern. Benennen Sie die Datei um: Die Endung „m4a“ wird zu „m4r“.
+9. Öffnen Sie iTunes erneut und löschen Sie die in Schritt 6 erstellte AAC-Version.
+10. Unter Ablage -> Zur Mediathek hinzufügen navigieren Sie zur erstellten m4r-Datei. Markieren Sie diese und bestätigen mit Öffnen.
+11. Nun können Sie Ihren neuen Klingelton mit dem iPhone synchronisieren.
 
 
 
