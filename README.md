@@ -82,6 +82,9 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
 	# best command to download videos from other sites, 
 	# see  supported sites: http://ytdl-org.github.io/youtube-dl/supportedsites.html  
 	$ youtube-dl -f mp4 https://www.srf.ch/play/tv/srf-news/video/street-parade-2019--tanzen-und-trinken-zum-motto-colors-of-unity?id=29533e8c-f546-41d9-8596-86202439c9a0
+	
+	# convert to mp3
+	$ youtube-dl -f bestaudio "https://www.youtube.com/playlist?list=PLYRruMbyFRcBVdVN8v4FNkIKkXvL-bZn_" --exec "ffmpeg -i {} -codec:a libmp3lame -qscale:a 0 {}.mp3 "
 
 ## Terminal (Apple)
 
