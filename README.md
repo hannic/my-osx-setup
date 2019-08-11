@@ -73,6 +73,9 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
 	icu4c		libvorbis	openssl@1.1	sqlite
 
 
+### youtube-dl
+
+	$ youtube-dl --extract-audio --recode-video "mp4" --audio-quality 0 -x "https://www.youtube.com/watch?v=Bv0yd9BBIl0"
 
 
 ## Terminal (Apple)
