@@ -120,7 +120,7 @@ Utility commands for start simple webserver, json server, network information (i
 	* wp-cli
 	* ffmpeg
 	* scdl 
-	* youtube-dl
+	* youtube-dl   # supported sites: http://ytdl-org.github.io/youtube-dl/supportedsites.html
 	* json-server
 	* nmap
 	
