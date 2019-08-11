@@ -76,6 +76,7 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
 ### youtube-dl
 
 	$ youtube-dl --extract-audio --recode-video "mp4" --audio-quality 0 -x "https://www.youtube.com/watch?v=Bv0yd9BBIl0"
+	$ youtube-dl --embed-thumbnail --extract-audio --recode-video "mp4" --audio-quality 0 -x -o '%(playlist)s/%(playlist_title)s - %(title)s.%(ext)s' https://www.youtube.com/playlist?list=PLvWzOSZqGLxrGznjlSgBwc1HcCG8b0h8r
 
 
 ## Terminal (Apple)
