@@ -79,6 +79,9 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
 	# best command for downloading youtube videos as audio tracks
 	$ youtube-dl -i --embed-thumbnail --extract-audio --recode-video "mp4" --audio-quality 0 -x -o '%(playlist)s/%(playlist_title)s - %(title)s.%(ext)s' https://www.youtube.com/playlist?list=PLvWzOSZqGLxrGznjlSgBwc1HcCG8b0h8r
 
+	# best command to download videos from other sites, 
+	# see  supported sites: http://ytdl-org.github.io/youtube-dl/supportedsites.html  
+	$ youtube-dl -f mp4 https://www.srf.ch/play/tv/srf-news/video/street-parade-2019--tanzen-und-trinken-zum-motto-colors-of-unity?id=29533e8c-f546-41d9-8596-86202439c9a0
 
 ## Terminal (Apple)
 
@@ -125,7 +128,7 @@ Utility commands for start simple webserver, json server, network information (i
 	* wp-cli
 	* ffmpeg
 	* scdl 
-	* youtube-dl   # supported sites: http://ytdl-org.github.io/youtube-dl/supportedsites.html
+	* youtube-dl   
 	* json-server
 	* nmap
 	
