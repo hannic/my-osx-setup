@@ -232,6 +232,11 @@ SSH Key - Still asking for password and passphrase
 	
 *http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3*
 
+### Use virtualenv
+	$ virtualenv venv
+	$ source venv/bin/activate
+	$ pip install pafy
+
 
 ### Raspberry Pi
 
