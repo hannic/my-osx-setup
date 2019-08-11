@@ -43,6 +43,7 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
 
     $ brew upgrade
     $ brew install <package>
+    $ brew ls <package>
     
 > *.git : workflow reminder* 
      
