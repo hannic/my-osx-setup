@@ -2,3 +2,5 @@
 # soundcloud download
 $ pip install scdl 
 
+# https://pypi.org/project/pafy/
+$ pip install pafy
