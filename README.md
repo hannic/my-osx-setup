@@ -291,6 +291,17 @@ It is based of the work of xxx (Found here: xxx).
 - https://markdown-it.github.io/
 
 
+## Ghostscript
+### Resize PDF size
+	gs \
+	 -sOutputFile=ocomposition_for_computer_musicians_176x250.pdf \
+	 -sDEVICE=pdfwrite \
+	 -sPAPERSIZE=isob5 \
+	 -dCompatibilityLevel=1.4 \
+	 -dNOPAUSE \
+	 -dBATCH \
+	 -dPDFFitPage \
+	  composition_for_computer_musicians.pdf
 
 ## iOS
 - Create own ringtones of any mp3 in iTunes:
