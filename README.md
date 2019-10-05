@@ -126,6 +126,9 @@ Utility commands for start simple webserver, json server, network information (i
     
     $ ifconfig wlan0
 
+    # download all files from a website (e.g. index page)
+    wget -A pdf,jpg -m -p -E -k -K -np http://siik.org/azn/?C=N%3BO=D 
+
 
 ## CLI 
 
