@@ -231,6 +231,7 @@ SSH Key - Still asking for password and passphrase
 - scikit-learn     
 - scipy  
 - librosa (conda install -c conda-forge librosa)
+- pip install google_images_download   # https://github.com/hardikvasa/google-images-download
 
 
 * scdl
