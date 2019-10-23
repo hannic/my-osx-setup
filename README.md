@@ -216,6 +216,8 @@ SSH Key - Still asking for password and passphrase
     $ ssh-add ~/.ssh/id_rsa
     $ ssh-add -K ~/.ssh/id_rsa
 
+Error: Offending RSA key in /var/lib/sss/pubconf/known_hosts:4
+Solution: remove line no: 4. Save and Exit, and Retry.
 
 ## Python
 	$ python -i <file_name.py>
