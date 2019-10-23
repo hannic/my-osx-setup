@@ -219,6 +219,9 @@ SSH Key - Still asking for password and passphrase
 
 ## Python
 	$ python -i <file_name.py>
+	
+### Install Python on Linux without admin rights	
+- http://thelazylog.com/install-python-as-local-user-on-linux/
 
 ## pip3
 
