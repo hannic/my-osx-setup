@@ -10,3 +10,21 @@ for file in ~/.{path,bash_prompt,exports,aliases,functions,extra}; do
   [ -r "$file" ] && source "$file"
 done
 unset file
+
+# Programs
+# ------------------------------------------------------------------------------
+alias subl="open -a /Applications/Sublime\ Text\.app"
+
+
+
+# Folders 
+# ------------------------------------------------------------------------------
+alias proj='cd ~/Users/yobo/Dev/'
+
+
+# Git
+# ------------------------------------------------------------------------------
+alias spull='git stash && git pull && git stash pop'
+alias spush='git stash && git push && git stash pop'
+
+
