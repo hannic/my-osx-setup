@@ -206,6 +206,9 @@ Open Sublime Text 2 in Terminal
 **Unix**
 - You've got mail in: var/mail/username  then use: command mail 
 
+# find out the shell you are using
+    $ echo $0
+
 **Cronjob**
     $ crontab -l
     $ crontab -e 
