@@ -1,6 +1,14 @@
-# Folder view configuration files
+# OS generated files #
+######################
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 Desktop.ini
+
 
 # Thumbnail cache files
 ._*
@@ -17,3 +25,18 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
