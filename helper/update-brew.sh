@@ -9,5 +9,7 @@ PATH=/usr/local/bin:/usr/bin:/bin
 #brew cask cleanup
 #brew update
 
+#brew update
+
 brew upgrade
 
