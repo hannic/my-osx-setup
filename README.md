@@ -24,7 +24,7 @@
 - [Raspberry Pi](#raspberrypi)
 - [Windows 10 & Python](https://github.com/hannic/my-osx-setup/blob/master/win10_python_setup.md)
 - [iOS](#ios)
-
+- [Time Machine](#tm) 
 
 
 ## dotfiles
@@ -335,10 +335,15 @@ It is based of the work of xxx (Found here: xxx).
 6. Bei einem weiteren Rechtsklick auf das Lied wählen Sie AAC-Version erstellen aus.
 Jetzt sollten sich in Ihrer Mediathek zwei Lieder befinden – einmal die Ursprungsversion und einmal die neue mit der richtigen Zeitspanne.
 7. Klicken Sie nun rechts auf die neue, kurze Version und wählen Sie Im Finder anzeigen.
-8. Damit iTunes die Datei als Klingelton erkennt, müssen Sie das Dateiformat ändern. Benennen Sie die Datei um: Die Endung „m4a“ wird zu „m4r“.
+8. Damit iTunes die Datei als Klingelton erkennt, müssen Sie das Dateiformat ändern. Benennen Sie die Datei um: Die Endung 
+„m4a“ wird zu „m4r“.
 9. Öffnen Sie iTunes erneut und löschen Sie die in Schritt 6 erstellte AAC-Version.
 10. Unter Ablage -> Zur Mediathek hinzufügen navigieren Sie zur erstellten m4r-Datei. Markieren Sie diese und bestätigen mit Öffnen.
 11. Nun können Sie Ihren neuen Klingelton mit dem iPhone synchronisieren.
 
+## tm
+'tmutil' is macos command line tool for Time Machine Backups
 
+	$ tmutil listbackups
+	$ tmutil delete /Volumes/Time\ Machine-Backups/Backups.backupdb/<Users MacBook Pro>YYYY-MM-DD-HHMMSS/ 
 
