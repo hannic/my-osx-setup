@@ -348,3 +348,15 @@ Jetzt sollten sich in Ihrer Mediathek zwei Lieder befinden – einmal die Urspru
 	$ tmutil listbackups
 	$ tmutil delete /Volumes/Time\ Machine-Backups/Backups.backupdb/<Users MacBook Pro>YYYY-MM-DD-HHMMSS/ 
 
+
+## Network
+scan available wifis
+	$ /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -s
+	
+returns following information: 
+
+| 	SSID | 	BSSID      |        	RSSI | CHANNEL | HT | CC | SECURITY (auth/unicast/group) |
+| 	:------ | 	:------      |        	:------ | :------ | :------ | :------ | :------|
+| 	Snnj-80697 | 	a8:d3:f7:9d:55:85      |    -88    	 | 100 | Y | DE | WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP)
+
+
