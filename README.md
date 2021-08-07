@@ -136,6 +136,7 @@ Utility commands for start simple webserver, json server, network information (i
 	* wp-cli
 	* ffmpeg
 	* scdl 
+		* scdl -l https://soundcloud.com/username/sets/sets_13
 	* youtube-dl   
 	* json-server
 	* nmap
