@@ -72,7 +72,7 @@ Main package manager is *brew*. Others are *pip3*, *npm*, *tlmgr*
 	git		libunistring	node		readline	yasm
 	groovy		libvo-aacenc	openssl		sphinx-doc	youtube-dl
 	icu4c		libvorbis	openssl@1.1	sqlite
-	imagemagick	ghostscript
+	imagemagick	ghostscript 	ko_pron
 
 
 ### youtube-dl
