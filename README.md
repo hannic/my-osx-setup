@@ -383,6 +383,10 @@ url tbd: linktomyconfig.js
 	
 ### Modules
 	- MMM-Carousel
+	- MMM-bernwordclock
+	- MMM-AareGuru
+	- calendar 
+
 	
 ### References
 - forum magic mirror 
