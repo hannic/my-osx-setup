@@ -374,6 +374,10 @@ returns following information:
 	cd ~/MagicMirror 
 	npm run start 
 	
+	cd ~/MagicMirror && DISPLAY=:0 npm start
+
+	scp /to/some/file.txt pi@10.0.0.x:~/to/remote/folder
+	
 ### Config
 url tbd: linktomyconfig.js
 	
