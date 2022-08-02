@@ -363,7 +363,7 @@ returns following information:
 
 
 
-## mm 
+## MagicMirror <a name="mm">
 ### Commands
 	cd ~/MagicMirror 
 	npm run start 
