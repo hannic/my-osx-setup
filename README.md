@@ -366,9 +366,17 @@ returns following information:
 
 ## MagicMirror <a name="mm">
 ### Commands
+	// ssh from mac to raspberry pi
+	ssh pi@10.0.0.x 
+	// copy file from mac to raspberry pi
+	scp ...
+	
 	cd ~/MagicMirror 
 	npm run start 
-
+	
+### Config
+url tbd: linktomyconfig.js
+	
 ### Modules
 	- MMM-Carousel
 	
