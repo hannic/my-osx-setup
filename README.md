@@ -25,6 +25,7 @@
 - [Windows 10 & Python](https://github.com/hannic/my-osx-setup/blob/master/win10_python_setup.md)
 - [iOS](#ios)
 - [Time Machine](#tm) 
+- [MagicMirror](#mm) 
 
 
 ## dotfiles
@@ -359,5 +360,24 @@ returns following information:
 | 	SSID | 	BSSID      |        	RSSI | CHANNEL | HT | CC | SECURITY (auth/unicast/group) |
 | 	:------ | 	:------      |        	:------ | :------ | :------ | :------ | :------|
 | 	Snnj-80697 | 	a8:d3:f7:9d:55:85      |    -88    	 | 100 | Y | DE | WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP)
+
+
+
+## mm 
+### Commands
+	cd ~/MagicMirror 
+	npm run start 
+
+### Modules
+	- MMM-Carousel
+	
+### References
+- forum magic mirror 
+- see pocket #magicmirror
+
+
+
+
+
 
 
