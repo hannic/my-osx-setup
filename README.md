@@ -25,8 +25,11 @@
 - [Windows 10 & Python](https://github.com/hannic/my-osx-setup/blob/master/win10_python_setup.md)
 - [iOS](#ios)
 - [Time Machine](#tm) 
-- [MagicMirror](#mm) 
+- [MagicMirror](#mm)
+- [youtube_download](#yt)
 
+## youtube_download
+See: https://gist.github.com/hannic/747b14d475eb2530cbcc88966890ba8a
 
 ## dotfiles
 
