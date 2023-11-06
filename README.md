@@ -26,7 +26,7 @@
 - [iOS](#ios)
 - [Time Machine](#tm) 
 - [MagicMirror](#mm)
-- [Youtube Video Download](#yt)
+- [Youtube Video Download](#yt-dl)
 
 
 ## dotfiles
