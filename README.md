@@ -26,7 +26,7 @@
 - [iOS](#ios)
 - [Time Machine](#tm) 
 - [MagicMirror](#mm)
-- [Youtube Video Download](#yt-dl)
+- [yt-dl](#yt-dl)
 
 
 ## dotfiles
@@ -396,7 +396,7 @@ url tbd: linktomyconfig.js
 
 
 
-## Youtube Video Download
+## yt-dl
 See: https://gist.github.com/hannic/747b14d475eb2530cbcc88966890ba8a
 
 
