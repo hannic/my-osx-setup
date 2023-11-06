@@ -28,8 +28,6 @@
 - [MagicMirror](#mm)
 - [youtube_download](#yt)
 
-## youtube_download
-See: https://gist.github.com/hannic/747b14d475eb2530cbcc88966890ba8a
 
 ## dotfiles
 
@@ -184,6 +182,7 @@ Open Sublime Text 2 in Terminal
 	
 	$ subl . 
 	$ subl <filename|foldername> 
+
 
 
 ## Shortcuts
@@ -397,7 +396,8 @@ url tbd: linktomyconfig.js
 
 
 
-
+## yt
+See: https://gist.github.com/hannic/747b14d475eb2530cbcc88966890ba8a
 
 
 
