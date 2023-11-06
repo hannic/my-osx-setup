@@ -27,7 +27,9 @@
 - [Time Machine](#tm) 
 - [MagicMirror](#mm)
 - [yt-dl](#yt-dl)
+- [ig-img](#ig-img)
 
+---
 
 ## dotfiles
 
@@ -398,6 +400,9 @@ url tbd: linktomyconfig.js
 
 ## yt-dl
 See: https://gist.github.com/hannic/747b14d475eb2530cbcc88966890ba8a
+
+## ig-img
+See: https://gist.github.com/hannic/37611b1cc258a26512f489e51a7c1a67
 
 
 
